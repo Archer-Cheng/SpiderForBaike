@@ -1,5 +1,6 @@
 #-*- coding: UTF-8 -*-
 '''
+为什么修改项这么多
 目标：百度百科Python词条相关词条页面-标题和简介
 入口页：http://baike.baidu.com/view/21087.htm
 URL格式：
